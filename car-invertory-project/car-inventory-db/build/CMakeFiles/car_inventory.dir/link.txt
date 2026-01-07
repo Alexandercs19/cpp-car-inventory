@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/car_inventory.dir/src/main.cpp.o CMakeFiles/car_inventory.dir/src/CarInventoryApp.cpp.o CMakeFiles/car_inventory.dir/src/CarRepository.cpp.o CMakeFiles/car_inventory.dir/external/sqlite/sqlite3.c.o -o car_inventory

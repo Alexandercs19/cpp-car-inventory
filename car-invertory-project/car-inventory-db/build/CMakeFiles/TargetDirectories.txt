@@ -1,0 +1,3 @@
+/Users/alexanderserrata/Documents/Projects/C++ Projects/car-invertory-project/car-inventory-db/build/CMakeFiles/car_inventory.dir
+/Users/alexanderserrata/Documents/Projects/C++ Projects/car-invertory-project/car-inventory-db/build/CMakeFiles/edit_cache.dir
+/Users/alexanderserrata/Documents/Projects/C++ Projects/car-invertory-project/car-inventory-db/build/CMakeFiles/rebuild_cache.dir
